@@ -21,16 +21,10 @@ const Technologies = () =>  (
         <DiFirebase size='3rem'/>
         <ListContainer>
           <ListTitle>Front-end</ListTitle>
-          <ListParagraph>Experience with React.js</ListParagraph>
+          <ListParagraph>Experience with Next.js</ListParagraph>
         </ListContainer>
       </ListItem>
-      <ListItem>
-        <DiFirebase size='3rem'/>
-        <ListContainer>
-          <ListTitle>Front-end</ListTitle>
-          <ListParagraph>Experience with React.js</ListParagraph>
-        </ListContainer>
-      </ListItem>
+      
     </List>
   </Section>
 );

@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        univelcity how i started
+        My journey into tech began in the year 2020 where i enrolled for a 6months diploma course at univelcity institute after which i worked as an intern at side hustle for another 6 months building amazing app with react and next.js,In the year 2021 i was employed for a voluntary roll at technify incubator where i mastered the use of ApIs,global context, and also react/redux and management of state in general  
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
          <>
